@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+
+#spring:
+#  http:
+#    encoding:
+#      force: true
+#      charset: "UTF-8"
+#      enabled: true
+#  mvc:
+#    static-path-pattern: /static/**
+
+shiro:
+  web:
+    enabled: false
